@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DECO4200",
+"productVersion": "0.1",
+"dataUrl": "Preventaway_LAST_FINALFINAL.data.unityweb",
+"wasmCodeUrl": "Preventaway_LAST_FINALFINAL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Preventaway_LAST_FINALFINAL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
